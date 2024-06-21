@@ -7,9 +7,9 @@
 
 ## 😎 Connect with me
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sample_twitter)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sample_linkedin)
-[![HackerRank](https://img.shields.io/badge/hackerrank-%2365FFD6.svg?&style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sample_hackerrank)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Aditya8988/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sahni-7687ab311/)
+[![HackerRank](https://img.shields.io/badge/hackerrank-%2365FFD6.svg?&style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sahniaditya951)
 
 
 ## 👨‍💻 Technologies and Tools
