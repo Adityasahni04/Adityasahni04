@@ -30,7 +30,8 @@
 | *Other*     | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                                                              |
 
 ## 🚀 Github Stats
+<img src="https://raw.githubusercontent.com/Adityasahni04/Adityasahni04/output/snake.svg" alt="Snake animation" />
  <div style="display: flex; justify-content: space-between;">
-  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityasahni04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Adityasahni04" />
-  <img style="width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasahni04&&theme=tokyonight" alt="Adityasahni04" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityasahni04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Adityasahni04" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasahni04&&theme=tokyonight" alt="Adityasahni04" height="150"/>
 </div>
