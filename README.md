@@ -2,13 +2,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+### Hi there, I'm Aditya Sahni 👋
+
 - 🔭 Currently working on **building a Blog website using EJS and Node.js.**
   
 - 🌱 Learning **Generative AI concepts** to explore cutting-edge technologies.
 - 💬 Ask me about **Cloud Computing, Backend Development, and Serverless Architectures.**
 - 💼 Check out my portfolio at [Aditya Sahni's Portfolio](https://adityasahni04.github.io/Portfolio/).
 - 📫 Reach me at **sahniaditya951@gmail.com**.
-- 🌐 Passionate about **exploring new tech trends**.
+- 🌐 Passionate about **Exploring new tech trends** .
+
 
 ## 😎 Connect with me
 
