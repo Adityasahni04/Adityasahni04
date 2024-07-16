@@ -2,8 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Hi there, I'm Aditya Sahni 👋
-
 - 🔭 Currently working on **building a Blog website using EJS and Node.js.**
   
 - 🌱 Learning **Generative AI concepts** to explore cutting-edge technologies.
